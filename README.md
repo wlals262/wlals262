@@ -11,7 +11,7 @@
       </a>
     </td>
     <td width="30"></td>
-    <td style="vertical-align: middle;">
+    <td valign="middle">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nextjs&perline=3" />
       </a>
@@ -21,4 +21,5 @@
 
 -- --
 ### My TIL Blog : <a href="https://velog.io/@jgm262/posts">here</a>
+### Rallit : <a href="https://www.rallit.com/hub/resumes/1205371/%EC%A0%95%EC%A7%80%EB%AF%BC">here</a>
 ### LinkedIn : <a href="https://www.linkedin.com/in/jimin-jung-56509132a/">here</a>
